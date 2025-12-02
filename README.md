@@ -1,5 +1,5 @@
 
-```bash
+
 ##Project Architechture
 EmployeeManagementSystem/
 ├── backend/                                   # Spring Boot Application Root
