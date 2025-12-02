@@ -1,4 +1,4 @@
-```
+```bash
 
 ##Project Architechture
 EmployeeManagementSystem/
@@ -41,7 +41,7 @@ EmployeeManagementSystem/
     └── README.md (Frontend Specific)
 
 # Employee Management System
-```bash
+```
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.0+-green.svg)
 ![React](https://img.shields.io/badge/React-18+-blue.svg)
